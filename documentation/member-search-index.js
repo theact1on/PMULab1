@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"com.luparev.lab1","c":"MinMaxClass","l":"max(int, int)","url":"max(int,int)"},{"p":"com.luparev.lab1","c":"MinMaxClass","l":"min(int, int)","url":"min(int,int)"},{"p":"com.luparev.lab1","c":"MinMaxClass","l":"MinMaxClass()","url":"%3Cinit%3E()"}]
